@@ -17,6 +17,10 @@
     color: darkred;
 }
 
+#tittle-nav-color {
+    color: darkred;
+}
+
 .special-color-btn {
     background-color: darkred;
     color: white;
@@ -26,9 +30,17 @@
     border-color: darkred;
 }
 
+.border-img {
+    border: 1px solid darkred;  
+}
+
 .card-position-img {
     object-fit: cover;
     height: 200px;
+}
+
+.card-img-width {
+    width: 200px;
 }
 
 .card-width {
