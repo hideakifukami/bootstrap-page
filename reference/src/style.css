@@ -12,3 +12,25 @@
 .font-title {
     font-family: 'Pacifico', cursive;
 }
+
+.special-color {
+    color: darkred;
+}
+
+.special-color-btn {
+    background-color: darkred;
+    color: white;
+}
+
+.special-color-border {
+    border-color: darkred;
+}
+
+.card-position-img {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-width {
+    max-width: 18rem;
+}
